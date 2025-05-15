@@ -15,5 +15,6 @@ The app is containerized using Docker.The lightweight python:3.8-slim base image
 HOW TO USE:
 
 docker pull souravangre/flask-fitstore
+
 docker run -p 4000:4000 souravangre/flask-fitstore
 
