@@ -1,61 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Fitstore - Flask E-commerce App</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      padding: 30px;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1 {
-      color: #2c3e50;
-      font-size: 2em;
-      margin-bottom: 0;
-    }
-    h2 {
-      color: #34495e;
-      border-bottom: 2px solid #ccc;
-      padding-bottom: 5px;
-      margin-top: 40px;
-    }
-    p {
-      font-size: 1.1em;
-    }
-    ul {
-      list-style-type: "📌 ";
-      padding-left: 1.2em;
-      font-size: 1.05em;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-size: 0.95em;
-    }
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      border-radius: 5px;
-      overflow-x: auto;
-      font-family: 'Courier New', monospace;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    .highlight {
-      background-color: #e6f7ff;
-      border-left: 5px solid #1890ff;
-      padding: 10px 15px;
-      margin-bottom: 20px;
-    }
-  </style>
+  <meta charset="UTF-8"
 </head>
 <body>
 
